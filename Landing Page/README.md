@@ -1,3 +1,8 @@
+## Exercise ##
+
+On this exercise I created a Landing Page w/ React using the steps from yt channel : Brian Design
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
